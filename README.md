@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Netflix-Clone
 
 A simple netflix-clone with trailer pop-ups.
